@@ -9,9 +9,9 @@ for(const i = 1; i <= 10; i++){
 console.log("Error 1 solucionado :)")
 
 */
-const counter = new Date()
+const counter = new Date("5")
 
-for(let i = 1; i <= 10; i++){
+for(const i = 1; i <= 10; i++){
       
     let n = "Número", i
 }

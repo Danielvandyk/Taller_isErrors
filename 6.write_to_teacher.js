@@ -19,7 +19,7 @@ return Number.parseInt(phoneNumber, 2);
 
 console.log (convertirBinarioAdecimal(phoneNumber))
 
-console.log("profe ya acabe :)")
+
 
 
 

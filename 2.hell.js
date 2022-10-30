@@ -7,7 +7,7 @@ if(!opt == false){
 } else {
     console.log("Error 2 Solucionado :)")
 }
-*/
+*/  
 
 const opt = "false" //valor inamovible
 
